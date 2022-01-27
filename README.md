@@ -1,2 +1,2 @@
-# Future
+# STORE MANAGEMENT
 A starting point.
